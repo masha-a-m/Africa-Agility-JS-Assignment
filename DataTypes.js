@@ -1,11 +1,11 @@
 // Question 1 - Declare variables
-let firstName = "John";
-let lastName = "Doe";
-let country = "USA";
-let city = "New York";
+let firstName = "Masha";
+let lastName = "Ibrahim";
+let country = "Nigeria";
+let city = "Kaduna";
 let age = 25;
 let isMarried = false;
-let year = 2023;
+let year = 2025;
 
 console.log(typeof firstName); // string
 console.log(typeof lastName);  // string
